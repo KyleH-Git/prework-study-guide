@@ -10,11 +10,7 @@ N/A
 
 ## Usage
 
-Provide instructions and examples for use. Include screenshots as needed.
-
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative file path, add it to your README using the following syntax:
-
-![alt text](assets/images/screenshot.png)
+Using the study guide is as simple as opening the site and reviewing the notes contained in each section. If you want what to study to be chosen for you open the Chrome DevTools by pressing Command+Option+I (macOS) or Control+Shift+I (Windows). A console panel will open on the side of your browser containing a list of the topics covered in the prework as well as a listed suggestion at the bottom as to what to study.
 
 ## Credits
 
